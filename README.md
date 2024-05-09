@@ -1,1 +1,1 @@
-personal browser using pycharm(PyQt5 module)
+Making a personal browser using pycharm(PyQt5 module)
